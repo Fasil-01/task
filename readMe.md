@@ -46,11 +46,10 @@ This is a simple command-line interface (CLI) application for managing tasks. Yo
 1. **Clone the repository:**
 
    
-   git clone https://github.com/Fasil-01/task-cli
+   git clone https://github.com/Fasil-01/task
    cd task_tracker_cli
 
 2. **Compile the source code:**
-    ```bash
    javac TaskCli.java Task.java TaskList.java 
 3. **Run the application:**
    java TaskCli <command> [arguments]
